@@ -1,0 +1,15 @@
+.appnavegator {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+  margin: auto;
+  color: #fff;
+  }
+
+
+@media (max-width: 768px) {
+  html {
+    font-size: 87.5%;
+  }; 
+ 
+  
+}
